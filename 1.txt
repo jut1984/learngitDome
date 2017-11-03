@@ -1,0 +1,2 @@
+  mFocusedActivity: ActivityRecord{4aa849bc u0 cn.creditease.android.cloudrefund/.activity.StartActivity t9}
+  mFocusedStack=ActivityStack{4a93218c stackId=4, 1 tasks} mStackState=STACK_STATE_HOME_IN_BACK
